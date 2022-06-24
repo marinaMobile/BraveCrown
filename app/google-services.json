@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655346134820",
+    "project_id": "crown-brave",
+    "storage_bucket": "crown-brave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655346134820:android:6d5437e6b0dea487c38db1",
+        "android_client_info": {
+          "package_name": "air.com.hypah.io.slithe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655346134820-ps6nnvsh5ckpgtnr2d1sl1o3aq8ffkop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrDD_aXjrQLgNWg-AFH6zb_zzwyyFQpoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655346134820-ps6nnvsh5ckpgtnr2d1sl1o3aq8ffkop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
